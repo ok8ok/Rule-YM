@@ -1,4 +1,4 @@
 # YM-Inside-Domin.list
-DOMAIN-KEYWORD,timohub
-DOMAIN-SUFFIX,timohub.fun
-IP-CIDR,111.206.208.163/32
+#DOMAIN-KEYWORD,timohub
+#IP-CIDR,9.9.9.9/32
+DOMAIN-SUFFIX,euserv.com
