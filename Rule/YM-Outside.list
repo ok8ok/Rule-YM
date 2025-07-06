@@ -7,5 +7,5 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,dapanyuntu.com
 DOMAIN-SUFFIX,hax.co.id 
 DOMAIN-SUFFIX,frog02.mikr.us
-DOMAIN-SUFFIX,alice.ws
+DOMAIN-SUFFIX,app.alice.ws
 IP-CIDR,113.29.226.135/32,no-resolve
