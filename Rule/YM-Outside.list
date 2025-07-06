@@ -7,4 +7,5 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,dapanyuntu.com
 DOMAIN-SUFFIX,hax.co.id #hax德国vps
 DOMAIN-SUFFIX,frog02.mikr.us #青蛙vps
+DOMAIN-SUFFIX,alice.ws #alice-vls
 IP-CIDR,113.29.226.135/32,no-resolve #sg抽奖vps
