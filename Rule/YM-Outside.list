@@ -9,4 +9,5 @@ DOMAIN-SUFFIX,hax.co.id
 DOMAIN-SUFFIX,frog02.mikr.us
 DOMAIN-SUFFIX,app.alice.ws
 DOMAIN-SUFFIX,virtnet.bond
+DOMAIN-SUFFIX,nodeseek.com
 IP-CIDR,113.29.226.135/32,no-resolve
