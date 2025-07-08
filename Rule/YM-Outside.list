@@ -10,4 +10,6 @@ DOMAIN-SUFFIX,frog02.mikr.us
 DOMAIN-SUFFIX,app.alice.ws
 DOMAIN-SUFFIX,virtnet.bond
 DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,gh-proxy.com
 IP-CIDR,113.29.226.135/32,no-resolve
+
