@@ -11,5 +11,6 @@ DOMAIN-SUFFIX,app.alice.ws
 DOMAIN-SUFFIX,virtnet.bond
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,login.uts.edu.au
+DOMAIN-SUFFIX,legendvps.com
 IP-CIDR,113.29.226.135/32,no-resolve
 
