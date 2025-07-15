@@ -12,5 +12,6 @@ DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,login.uts.edu.au
 DOMAIN-SUFFIX,legendvps.com
 DOMAIN-SUFFIX,alice.yiming.xyz
+DOMAIN-SUFFIX,github.com
 IP-CIDR,113.29.226.135/32,no-resolve
 
