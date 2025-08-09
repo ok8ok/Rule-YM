@@ -1,5 +1,8 @@
 #YM-Outside-Domin.list
+DOMAIN-SUFFIX,www.qichiyu.com
 DOMAIN-SUFFIX,qichiyu.com
+域名后缀,qichiyu.com
+域名后缀,qichiyu.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,tv.garden
 DOMAIN-SUFFIX,nezha.zanyang.com
@@ -16,4 +19,3 @@ DOMAIN-SUFFIX,alice.yiming.xyz
 DOMAIN-SUFFIX,tv.yiming.xyz
 DOMAIN-SUFFIX,github.com
 IP-CIDR,113.29.226.135/32,no-resolve
-
