@@ -17,4 +17,5 @@ DOMAIN-SUFFIX,alice.ws
 DOMAIN-SUFFIX,alice.yiming.xyz
 DOMAIN-SUFFIX,tv.yiming.xyz
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,hello.taige999.workers.dev
 IP-CIDR,113.29.226.135/32,no-resolve
