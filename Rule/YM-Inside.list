@@ -2,3 +2,4 @@
 #DOMAIN-KEYWORD,timohub
 #IP-CIDR,9.9.9.9/32
 #DOMAIN-SUFFIX,euserv.com
+#DOMAIN-SUFFIX,cloudflare.com
