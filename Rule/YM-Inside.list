@@ -1,6 +1,8 @@
 #IP-CIDR,9.9.9.9/32
+#同花顺
+IP-CIDR,159.138.41.254/32
 # 向日葵
-DOMAIN-SUFFIX,oray.net
+DOMAIN-SUFFIX,oray.net  
 PROCESS-NAME,SunloginClient.exe
 # 浏览器自动验证码拓展nopecha解除ip封禁
 DOMAIN,api.nopecha.com
