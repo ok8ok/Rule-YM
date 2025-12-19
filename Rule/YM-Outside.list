@@ -1,7 +1,6 @@
 #YM-Outside-Domin.list
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,tv.garden
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,hax.co.id 
@@ -28,4 +27,21 @@ DOMAIN-SUFFIX,mynav.aaazzz-790.workers.dev
 DOMAIN-SUFFIX,hello.3.8.c.b.0.d.0.0.1.0.a.2.ip6.arpa
 DOMAIN-SUFFIX,olleh.3.8.c.b.0.d.0.0.1.0.a.2.ip6.arpa
 DOMAIN-SUFFIX,hello.d.a.7.0.4.2.0.0.0.7.4.0.1.0.0.2.ip6.arpa
+DOMAIN,gw.sky-ip.net
+DOMAIN-SUFFIX,gw.sky-ip.net
+IP-CIDR,207.148.64.114/32,no-resolve
+DOMAIN-SUFFIX,emby.vault647.com
+#谷歌大陆节点代理
+DOMAIN-SUFFIX,gstatic.com
+#谷歌play
+DOMAIN-SUFFIX,googleapis.cn
+# 币安
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,bnbstatic.com
+# iptv直播源
+DOMAIN-SUFFIX,livednow.com
+# 423down
+DOMAIN-SUFFIX,423down.com
+# NodeSeek
+DOMAIN-SUFFIX,nodeseek.com
 IP-CIDR,113.29.226.135/32,no-resolve
